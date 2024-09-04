@@ -27,7 +27,6 @@
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=local-kim)](https://github.com/local-kim/github-readme-stats)-->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=local-kim&layout=compact)](https://github.com/local-kim/github-readme-stats)
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=pepp3r)](https://solved.ac/pepp3r)
+<!--[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=pepp3r)](https://solved.ac/pepp3r)-->
 
 </div>
